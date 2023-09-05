@@ -6,3 +6,6 @@
 4. venv 가상환경 생성
 5. .gitignore 파일 생성
 6. requirements.txt 생성
+7. startproject 
+   - python manage.py runserver 동작 확인
+8. startapp accounts
