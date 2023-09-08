@@ -1,4 +1,19 @@
 # 도서 대출 웹 서비스
+## 진행상황
+1. 메인페이지 
+    - http://127.0.0.1:8000/
+2. 도서 상세 페이지
+    - http://127.0.0.1:8000/books/1/
+3. 회원 가입
+    - http://127.0.0.1:8000/accounts/signup/
+4. 로그인
+    - http://127.0.0.1:8000/accounts/login/
+5. 로그아웃
+   - 로그인하면 로그인/회원가입이 로그아웃으로 표시
+6. 내 대출 목록
+    - http://127.0.0.1:8000/books/my_rentals/
+7. 도서 대출
+   - 도서 상세 페이지에서 대출 버튼을 클릭하면 내 대출 목록 페이지로 이동
 ## 20230905
 1. github repo 생성
 2. git clone 
@@ -24,4 +39,7 @@
 13. CustomUserCreationForm 생성
     - shell에서 import한 후에 출력해서 확인
 14. SignUpView
-15. 
+## 20230908
+1. login/logout
+2. book 앱 생성
+3. homepage 제작
